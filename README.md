@@ -1,5 +1,9 @@
-This discord bot uses the open ai API to provide server members with their own chat GPT chat bot
+This discord bot uses ChatGPT to interact with users on discord.
 
+To use this bot you will need 
+-your own discord token, 
+-your own open ai API key (May have to pay as of recently)
+-channel id
 
+Simply invite the bot to your own server (send messages is recommended to avoid spam)
 
-To use this bot you will need your own discord toke, open ai API key, channel id, and either the free or paid version of open AI
